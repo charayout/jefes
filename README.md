@@ -1,1 +1,1 @@
-# jefes
+this plugin is used to customize mobs
